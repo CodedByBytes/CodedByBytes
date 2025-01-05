@@ -20,7 +20,8 @@ I'm a software development engineer interested in solving problems faced during 
 ---  
 
 ## 🛠️ Tech Stack I Work With  
-![image](https://github.com/user-attachments/assets/340156a1-15f7-47a3-911a-f2dcd2e754d1) ![image](https://github.com/user-attachments/assets/32f98fc2-9137-4f70-8ce4-6a7a9105d397) ![image](https://github.com/user-attachments/assets/37997482-f979-43b1-b676-2e4ab6a9e52e) ![image](https://github.com/user-attachments/assets/c52e3738-a75f-4f95-b6e4-1b4863630dc1)  ![image](https://github.com/user-attachments/assets/ab257828-7e81-4d06-ae09-379752b2bdb1)
+![image](https://github.com/user-attachments/assets/52a18c7a-08df-4897-aafb-d323f656dd5a)
+ ![image](https://github.com/user-attachments/assets/32f98fc2-9137-4f70-8ce4-6a7a9105d397) ![image](https://github.com/user-attachments/assets/37997482-f979-43b1-b676-2e4ab6a9e52e) ![image](https://github.com/user-attachments/assets/c52e3738-a75f-4f95-b6e4-1b4863630dc1)  ![image](https://github.com/user-attachments/assets/ab257828-7e81-4d06-ae09-379752b2bdb1)
 
 
 
