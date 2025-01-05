@@ -9,7 +9,7 @@ I'm a software development engineer interested in solving problems faced during 
 ## 🌟 Here is what I'm currently working on 👇  
 
 - 🌍 **Location**: Bangalore, India  
-- 🔭 **Currently working on**: Java, Spring, Spring Boot, Apache Camel,Redhat JBoss Fuse ESB, PostgreSQL, Docker, and many more.  
+- 🔭 **Currently working on**: Java, Spring, Spring Boot, Apache Camel, Redhat JBoss Fuse ESB, PostgreSQL, Docker, and many more.  
 - 🌱 **Currently learning**: System & Architectural Designs  
 - 👯 **Looking to collaborate on**: Java & Spring boot projects  
 - 📢 **I ❤️ teaching** the concepts.  
