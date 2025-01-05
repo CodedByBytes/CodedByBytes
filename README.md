@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Ankit.
 
-## 🧑‍💼 Investor, Middleware Integration Consultant, Architecture Design & Corporate Trainer  
+## 🧑‍💼 Middleware Integration Consultant, Certified Scrum Master, Architecture Design & Corporate Trainer  
 
 I'm a software development engineer interested in solving problems faced during the integration of large-scale distributed systems, concurrent programming, and designing low-latency systems. Currently, I am working on distributed systems and real-time data streaming and processing. I have good hands-on experience with Java, Spring, Spring Boot, and Apache Camel. I love Linux kernel-based OSs like Ubuntu, Kali Linux, Parrot OS, and Fedora. I'm an open-source enthusiast and contributor.  
 
@@ -9,9 +9,9 @@ I'm a software development engineer interested in solving problems faced during 
 ## 🌟 Here is what I'm currently working on 👇  
 
 - 🌍 **Location**: Bangalore, India  
-- 🔭 **Currently working on**: GoLang, Java, Spring, Spring Boot, Apache Camel, Shell Script, PostgreSQL, Docker, and many more.  
-- 🌱 **Currently learning**: System Designs  
-- 👯 **Looking to collaborate on**: Java projects  
+- 🔭 **Currently working on**: Java, Spring, Spring Boot, Apache Camel,Redhat JBoss Fuse ESB, PostgreSQL, Docker, and many more.  
+- 🌱 **Currently learning**: System & Architectural Designs  
+- 👯 **Looking to collaborate on**: Java & Spring boot projects  
 - 📢 **I ❤️ teaching** the concepts.  
 - 📧 **How to reach me**: codedbybytes@gmail.com
 - 📫 **My Portfolio**: https://github.com/CodedByBytes
