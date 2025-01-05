@@ -1,52 +1,57 @@
-Hi 👋 My name is Ankit
-Investor, Middleware Integration Consultation, Architecture Design & Corporate Training
-I'm a software development engineer. Interested in Solving problems faced during integrating Large Scale distributed systems, Concurrent programming & Designing low latency Systems. Currently working on distributed systems and Real time data streaming and processing. Have good hands-on with Java, Spring, Spring Boot and Apache Camel. I love Linux Kernel-based OSs Ubuntu, Kali Linux, Parrot OS, and Fedora. I'm an open-source enthusiast and contributor.
+# 👋 Hi, my name is Ankit  
 
-Coding
+## 🧑‍💼 Investor, Middleware Integration Consultant, Architecture Design & Corporate Trainer  
 
-Here is what, currently I'm working on 👋
-🌍 I'm based in Bangalore, India
-🔭 I’m currently working on : GoLang, Java, Spring, Spring Boot, Apache Camel, Shell Script, PostgreSQL, Docker and many more things.
-🌱 I’m currently learning : System Designs
-👯 I’m looking to collaborate on : Java projects
-📢 I ❤️ teaching the concepts.
-📧 How to reach me : kodtodya.github.io
-📫 My Portfolio : https://github.com/kodtodya
-⚡ Fun fact : You know, who I'm!! 😜
-Stack I work with
-![image](https://github.com/user-attachments/assets/86c7b4bf-d862-46f4-9992-5f2ff623f1b6)
+I'm a software development engineer interested in solving problems faced during the integration of large-scale distributed systems, concurrent programming, and designing low-latency systems. Currently, I am working on distributed systems and real-time data streaming and processing. I have good hands-on experience with Java, Spring, Spring Boot, and Apache Camel. I love Linux kernel-based OSs like Ubuntu, Kali Linux, Parrot OS, and Fedora. I'm an open-source enthusiast and contributor.  
 
-               
+---  
 
-Cloud Technologies I worked with
-   
+## 🌟 Here is what I'm currently working on 👇  
 
-Version Control tools I worked with
-   
+- 🌍 **Location**: Bangalore, India  
+- 🔭 **Currently working on**: GoLang, Java, Spring, Spring Boot, Apache Camel, Shell Script, PostgreSQL, Docker, and many more.  
+- 🌱 **Currently learning**: System Designs  
+- 👯 **Looking to collaborate on**: Java projects  
+- 📢 **I ❤️ teaching** the concepts.  
+- 📧 **How to reach me**: 
+- 📫 **My Portfolio**: https://github.com/CodedByBytes
+- ⚡ **Fun fact**: You know, who I am!! 😜  
 
-Frameworks I worked with
-    
+---  
 
-Tools I worked with
-             
+## 🛠️ Tech Stack I Work With  
+![image](https://github.com/user-attachments/assets/340156a1-15f7-47a3-911a-f2dcd2e754d1) ![image](https://github.com/user-attachments/assets/32f98fc2-9137-4f70-8ce4-6a7a9105d397) ![image](https://github.com/user-attachments/assets/37997482-f979-43b1-b676-2e4ab6a9e52e) ![image](https://github.com/user-attachments/assets/c52e3738-a75f-4f95-b6e4-1b4863630dc1)
 
-Databases I worked with
-    
 
-Operating Systems I worked with
-    
 
-<!--
-**CodedByBytes/CodedByBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cloud Technologies  
+- [List of Cloud Technologies]  
+
+### Version Control Tools  
+- Git  
+- GitHub  
+
+### Frameworks  
+- Java Spring  
+- Apache Camel  
+
+### Tools  
+- [List of Tools]  
+
+### Databases  
+- PostgreSQL  
+- [Other Databases]  
+
+### Operating Systems  
+- Ubuntu  
+- Kali Linux  
+- Parrot OS  
+- Fedora  
+
+---  
+
+## 🌐 Social Media Handles  
+
+- [Other Social Media Links]
