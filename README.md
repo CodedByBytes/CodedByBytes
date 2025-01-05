@@ -5,7 +5,7 @@ I'm a software development engineer. Interested in Solving problems faced during
 Coding
 
 Here is what, currently I'm working on 👋
-🌍 I'm based in Pune, India
+🌍 I'm based in Bangalore, India
 🔭 I’m currently working on : GoLang, Java, Spring, Spring Boot, Apache Camel, Shell Script, PostgreSQL, Docker and many more things.
 🌱 I’m currently learning : System Designs
 👯 I’m looking to collaborate on : Java projects
@@ -14,6 +14,8 @@ Here is what, currently I'm working on 👋
 📫 My Portfolio : https://github.com/kodtodya
 ⚡ Fun fact : You know, who I'm!! 😜
 Stack I work with
+![image](https://github.com/user-attachments/assets/86c7b4bf-d862-46f4-9992-5f2ff623f1b6)
+
                
 
 Cloud Technologies I worked with
