@@ -39,6 +39,7 @@ I'm a software development engineer interested in solving problems faced during 
 
 ### Databases  
 ![image](https://github.com/user-attachments/assets/3ab5fec2-dc9c-4aa7-bd86-96e3d7fb69f0) ![image](https://github.com/user-attachments/assets/97300145-4f70-4035-8af9-4a564abf4f23) ![image](https://github.com/user-attachments/assets/b363d4b5-f9d8-4d6f-b691-537510ff75a2) ![image](https://github.com/user-attachments/assets/e5a21d93-8c12-4dad-8606-3ba91351b513) ![image](https://github.com/user-attachments/assets/2f5b33e6-59ad-41cd-8fc9-4229af5abed2)
+<img src="![image](https://github.com/user-attachments/assets/b363d4b5-f9d8-4d6f-b691-537510ff75a2)" width="50" />
  
 ## 🌐 Social Media Handles  
 
