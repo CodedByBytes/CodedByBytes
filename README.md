@@ -34,9 +34,6 @@ I'm a software development engineer interested in solving problems faced during 
 ![image](https://github.com/user-attachments/assets/75cec3f9-d33a-417b-b22b-835b80c3ddd9) ![image](https://github.com/user-attachments/assets/7291f0e0-e605-4a7b-b892-ff634d4d39d1) ![image](https://github.com/user-attachments/assets/46ee3a6a-9e41-4d40-8eb0-431582b42e38)
 
 ### Tools  
-![image](https://github.com/user-attachments/assets/6ce1ab3f-d736-43da-97fd-a86bc98d7d4d)
-![image](https://github.com/user-attachments/assets/451bba11-d304-4155-b796-5328c4337114)
-
 ![image](https://github.com/user-attachments/assets/92c0d675-9a57-4101-aa78-acfd73d314d7) ![image](https://github.com/user-attachments/assets/1c283dab-e25d-4678-aa1e-cb01e4ab8944) ![image](https://github.com/user-attachments/assets/2f11c0b6-9591-4200-b1d4-e8c4515f190c) ![image](https://github.com/user-attachments/assets/1daa1cc1-242f-4a79-91d9-ab5cdc1151bb) ![image](https://github.com/user-attachments/assets/ffbe0819-e851-4007-9988-44697be7fdfd) ![image](https://github.com/user-attachments/assets/61208835-da48-44c3-a189-44a198d1bd3c) ![image](https://github.com/user-attachments/assets/124c8f6c-553b-4c74-a2ff-d5318fb156e6) ![image](https://github.com/user-attachments/assets/b2649222-5e11-4d3f-8150-929d58dff7c3) ![image](https://github.com/user-attachments/assets/e82d2b55-5a91-4d06-8afa-a5c96a003375)
 ![image](https://github.com/user-attachments/assets/6f956ff7-51e2-42bc-a4d9-1616c8fd0165) ![image](https://github.com/user-attachments/assets/3f125c07-22ad-4e20-9c4d-5e6a3872f3d8) ![image](https://github.com/user-attachments/assets/0305a5e1-1ae1-417c-bd7e-37ae9456d00b)
 
