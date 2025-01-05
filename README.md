@@ -29,7 +29,8 @@ I'm a software development engineer interested in solving problems faced during 
 ### Version Control Tools  
 ![image](https://github.com/user-attachments/assets/01824503-2f71-4a6e-ba97-de167c68950c) ![image](https://github.com/user-attachments/assets/f241d6a2-057d-42ae-b7c3-6481fbb617bf) ![image](https://github.com/user-attachments/assets/7f64167a-4aa5-4de0-b4b9-d5fad31cc627) ![image](https://github.com/user-attachments/assets/0c349d76-5acf-4c36-9842-286becd9745b) 
 ![IJ](https://github.com/user-attachments/assets/6f40a9a6-73ba-485a-8367-a5d7035b5ef0)
-
+###MM
+![Alt text](https://www.google.com/imgres?q=Intellia%20ide%20small%20icon%20for%20github&imgurl=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fintellij-idea-icon-2048x2048-hsyna1mi.png&imgrefurl=https%3A%2F%2Ficonduck.com%2Ficons%2F27526%2Fintellij-idea&docid=M8GO8I74mOiqIM&tbnid=i-d63teFpieBmM&vet=12ahUKEwjsipu9jd-KAxUU4zgGHfDiL4kQM3oECBgQAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwjsipu9jd-KAxUU4zgGHfDiL4kQM3oECBgQAA)
 ### Frameworks  
 ![image](https://github.com/user-attachments/assets/75cec3f9-d33a-417b-b22b-835b80c3ddd9) ![image](https://github.com/user-attachments/assets/7291f0e0-e605-4a7b-b892-ff634d4d39d1) ![image](https://github.com/user-attachments/assets/46ee3a6a-9e41-4d40-8eb0-431582b42e38)
 
