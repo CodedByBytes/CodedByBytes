@@ -13,7 +13,7 @@ I'm a software development engineer interested in solving problems faced during 
 - 🌱 **Currently learning**: System Designs  
 - 👯 **Looking to collaborate on**: Java projects  
 - 📢 **I ❤️ teaching** the concepts.  
-- 📧 **How to reach me**: 
+- 📧 **How to reach me**: codedbybytes@gmail.com
 - 📫 **My Portfolio**: https://github.com/CodedByBytes
 - ⚡ **Fun fact**: You know, who I am!! 😜  
 
