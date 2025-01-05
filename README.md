@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Ankit  
+# 👋 Hi, my name is Ankit.
 
 ## 🧑‍💼 Investor, Middleware Integration Consultant, Architecture Design & Corporate Trainer  
 
