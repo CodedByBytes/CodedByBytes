@@ -20,9 +20,13 @@ I'm a software development engineer interested in solving problems faced during 
 ---  
 
 ## 🛠️ Tech Stack I Work With 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">  
-<img src="https://github.com/user-attachments/assets/1ff560fd-36f0-4d66-8104-014c3654bff7" alt="Java" width="80" style="margin: 10px;"/>  
-</div>  
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; padding: 10px;">  
+
+  <div style="margin: 10px; text-align: center;">  
+    <img src="https://github.com/user-attachments/assets/1ff560fd-36f0-4d66-8104-014c3654bff7" alt="Go" />  
+    <p style="text-decoration: underline;">Go</p>  
+  </div> 
+  </div>
 
 ### Cloud Technologies I worked with
 ![image](https://github.com/user-attachments/assets/343523c8-3872-456f-91f7-b7476174a09d) ![image](https://github.com/user-attachments/assets/a53815f9-4119-4679-abca-9dc9ef1e45a7) ![image](https://github.com/user-attachments/assets/e021045e-9951-43e1-9c9f-93f90368e2ee) ![image](https://github.com/user-attachments/assets/47bf9d7a-d0bb-4480-a2a7-be1e71bf0c95)
