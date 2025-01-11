@@ -42,4 +42,21 @@ I'm a software development engineer interested in solving problems faced during 
  
 ## 🌐 Social Media Handles  
 
-- [Other Social Media Links]
+<!DOCTYPE html>  
+<html lang="en">  
+<a href="mailto:CodedByBytes@gmail.com" target="_blank class="contact-link">  
+    <img src="https://img.icons8.com/material-outlined/24/ffffff/gmail-new.png" alt="Email" class="icon"/> mailto:CodedByBytes@gmail.com      
+</a>  
+
+<a href="https://www.facebook.com/ankitsingh.rajput.9619" target="_blank" class="contact-link">  
+    <img src="https://img.icons8.com/material-outlined/24/ffffff/facebook-new.png" alt="Facebook" class="icon"/>   
+    Facebook Profile  
+</a>  
+
+<a href="https://www.twitter.com/yourprofile" target="_blank" class="contact-link">  
+    <img src="https://img.icons8.com/material-outlined/24/ffffff/twitter-squared.png" alt="Twitter" class="icon"/>   
+    Twitter Profile  
+</a>  
+
+</body>  
+</html>
