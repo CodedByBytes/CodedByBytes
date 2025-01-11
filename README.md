@@ -2,7 +2,9 @@
 
 ## 🧑‍💼 Middleware Integration Consultant, Certified Scrum Master, Architecture Design & Corporate Trainer  
 
-I'm a software development engineer interested in solving problems faced during the integration of large-scale distributed systems, concurrent programming, and designing low-latency systems. Currently, I am working on distributed systems and real-time data streaming and processing. I have good hands-on experience with Java, Spring, Spring Boot, and Apache Camel. I love Linux kernel-based OSs like Ubuntu, Kali Linux, Parrot OS, and Fedora. I'm an open-source enthusiast and contributor.  
+ I am a seasoned Software Development Engineer with 10 years of experience in designing and developing software solutions within Agile environments. My expertise lies in integrating large-scale distributed systems and creating low-latency applications.
+Having spent a year as a Spring Boot and Apache Camel developer in London for an RMG client, I am proficient in technologies such as Apache Camel, Spring Boot, Red Hat JBOSS-Fuse, Java/J2EE, Hibernate, and MuleSoft 4.2. I am also a certified Scrum Master and am pursuing a career as an Agile Coach.
+I excel in writing technical documentation, conducting unit tests, and deploying code using CI/CD practices. Currently, I focus on distributed systems and real-time data streaming, leveraging my skills in Java, Spring, and Apache Camel to deliver high-quality solutions that drive business success.  
 
 ---  
 
