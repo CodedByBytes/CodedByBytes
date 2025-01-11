@@ -20,18 +20,7 @@ I'm a software development engineer interested in solving problems faced during 
 ---  
 
 ## 🛠️ Tech Stack I Work With 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">  
-<img src="https://github.com/user-attachments/assets/1ff560fd-36f0-4d66-8104-014c3654bff7" alt="Java" width="100" style="margin: 10px;"/>   
-<img src="https://img.icons8.com/color/48/apache-kafka.png" alt="Kafka" width="80" style="margin: 10px;"/>  
-<img src="https://img.icons8.com/color/48/apache.png" alt="Apache" width="80" style="margin: 10px;"/>  
-<img src="https://img.icons8.com/color/48/open-source.png" alt="Open Source" width="80" style="margin: 10px;"/>  
-<img src="https://img.icons8.com/color/48/activemq.png" alt="ActiveMQ" width="80" style="margin: 10px;"/>  
-<img src="https://img.icons8.com/color/48/docker.png" alt="Docker" width="80" style="margin: 10px;"/>  
-<img src="https://img.icons8.com/color/48/zookeeper.png" alt="Zookeeper" width="80" style="margin: 10px;"/>  
-<img src="https://img.icons8.com/color/48/elasticsearch.png" alt="Elastic" width="80" style="margin: 10px;"/>  
-<img src="https://img.icons8.com/color/48/wildfly.png" alt="WildFly" width="80" style="margin: 10px;"/>  
-<img src="https://img.icons8.com/color/48/xml.png" alt="XML" width="80" style="margin: 10px;"/>  
-</div>  
+![image](https://github.com/user-attachments/assets/32f98fc2-9137-4f70-8ce4-6a7a9105d397) ![image](https://github.com/user-attachments/assets/37997482-f979-43b1-b676-2e4ab6a9e52e) ![image](https://github.com/user-attachments/assets/c52e3738-a75f-4f95-b6e4-1b4863630dc1) ![image](https://github.com/user-attachments/assets/ab257828-7e81-4d06-ae09-379752b2bdb1) 
 
 ### Cloud Technologies I worked with
 ![image](https://github.com/user-attachments/assets/343523c8-3872-456f-91f7-b7476174a09d) ![image](https://github.com/user-attachments/assets/a53815f9-4119-4679-abca-9dc9ef1e45a7) ![image](https://github.com/user-attachments/assets/e021045e-9951-43e1-9c9f-93f90368e2ee) ![image](https://github.com/user-attachments/assets/47bf9d7a-d0bb-4480-a2a7-be1e71bf0c95)
